@@ -1,0 +1,30 @@
+# Local research papers and generated deliverables
+/tests/
+/submission/
+/output/
+/tmp/
+/temp/
+/evaluation/runs/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key

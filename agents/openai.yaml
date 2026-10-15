@@ -1,0 +1,4 @@
+interface:
+  display_name: "EconReader-Pro｜经济学论文研读助手"
+  short_description: "按五类研究范式研读经济学论文，追溯证据，支持精读与多篇比较"
+  default_prompt: "请使用 $econreader-pro 判断我提供的论文类型，直接给出带原文依据的速读报告，并提供适合本文的深入阅读入口。"
